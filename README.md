@@ -1,16 +1,33 @@
-# Daniel Souza
+<div align="center">
+  <h1>👋 Olá, eu sou um futuro Especialista em Cibersegurança!</h1>
+  <p>🚀 <i>"Saber programação é o superpoder; cibersegurança é o escudo que protege o mundo digital."</i></p>
 
-### 🐍 Desenvolvedor Python
-
-[Sobre mim](#) • [Tecnologias](#) • [Estatísticas](#) • [Contato]
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
 
 ---
 
-[h1]📈 Minha mentalidade[/h1]
-[quote]"Não preciso saber tudo agora, só preciso melhorar todos os dias."[/quote]
-[hr]
+### 🐍 Meus Estudos em Python (`perfil.py`)
 
-## 👤 Sobre mim
-* 👋 Olá! Meu nome é **Daniel Souza**.
-* 🎂 Tenho **[16]** anos.
-* 💻 Sou apaixonado por tecnologia e focado em aprender **Python**.
+```python
+# Script do meu Perfil no GitHub
+
+class MeuPerfil:
+    def __init__(self):
+        self.foco = "Informática Básica, Redes e Cibersegurança"
+        self.linguagem_principal = "Python"
+        self.meta = "Me tornar um Profissional de Segurança da Informação / Pentester"
+        self.status = "Aprendendo um pouco todos os dias 📈"
+
+    def mensagem_motivacional(self):
+        return (
+            "Todo grande especialista em segurança começou sem saber nada. "
+            "O segredo não é saber tudo hoje, mas nunca parar de praticar e aprender!"
+        )
+
+# Executando o perfil
+dev = MeuPerfil()
+print(f"🎯 Foco Atual: {dev.foco}")
+print(f"💡 Motivacional: {dev.mensagem_motivacional()}")
