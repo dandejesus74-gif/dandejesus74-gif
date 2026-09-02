@@ -39,10 +39,12 @@
 
 ---
 
-### 📫 Contato
+[h1]📈 Minha mentalidade[/h1]
+[quote]"A constância vence o talento quando o talento não tem constância."[/quote]
+[hr]
 
-- 📧 **E-mail:** (dandejesus74@gmail.com)
-- 💼 
+- 
+- 
 
 <br />
 
