@@ -1,5 +1,5 @@
 <!-- CABEÇALHO / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002040&height=220&section=header&text=Aluno%20voca%C3%A7%C3%A3o%20Daniel%20Souza&fontSize=38&fontColor=e0e6ed&animation=twinkling" width="100%" alt="Header Daniel Souza" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002040&height=220&section=header&text=Daniel%20Souza&fontSize=50&fontColor=e0e6ed&animation=twinkling" width="100%" alt="Header Daniel Souza" />
 
 <h3 align="center">🐍 Desenvolvedor Python</h3>
 
@@ -14,11 +14,9 @@
 
 ### 👤 Sobre Mim
 
-- 👨‍💻 **Nome:** Aluno Vocação Daniel Souza
-- 🎂 **Idade:** [SUA IDADE AQUI] anos
-- 🎓 **Escolaridade/Formação:** Cursando Vocação
+- 🎓 **Aluno Vocação**
 - 💻 Focado em desenvolvimento, automações e soluções utilizando **Python**.
-- 🚀 Buscando sempre evoluir e aprender novas tecnologias.
+- 🚀 Buscando sempre evoluir na area de tecnologia e programaçao.
 
 ---
 
@@ -43,8 +41,8 @@
 
 ### 📫 Contato
 
-- 📧 **E-mail:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/)
+- 📧 **E-mail:** (dandejesus74@gmail.com)
+- 💼 
 
 <br />
 
