@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header"/><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Daniel!;16+anos+%7C+Brasil;Estudante+da+Vocação;Futuro+Profissional+de+Cibersegurança+🔐;Construindo+minha+base+todos+os+dias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Daniel!;16+anos+%7C+Brasil;Estudante+de+Vocação;Futuro+Profissional+de+Cibersegurança+🔐;Construindo+minha+base+todos+os+dias" />
 </p>---
 
 <p align="center">
@@ -20,24 +20,26 @@
 
 🧠 Em aprendizado
 
-🎨 Front-end & Design
+💻 Tecnologias
 
-<img src="https://img.shields.io/badge/Front--end-0d1117?style=for-the-badge&logo=code&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>🔧 Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,vscode&theme=dark" />
+</p>🔐 Cibersegurança
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>🔐 Cibersegurança
-
-Buscando construir minha base em programação, lógica, sistemas e conceitos de segurança para futuramente atuar profissionalmente na área de Cibersegurança.
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+</p><p align="center">
+  <b>🔐 Futuro Profissional de Cibersegurança</b><br>
+  Construindo minha base em programação, sistemas, redes e segurança da informação.
+</p>---
 
 📂 Projeto em destaque
 
 🏦 Projeto Banco
 
-Em breve adicionarei aqui meus projetos desenvolvido durante minha formação.
+Projeto desenvolvido durante minha formação, colocando em prática meus conhecimentos de programação e lógica.
 
-"🔗 Ver projeto no GitHub" (https://github.com/dandejesus74-gif/two_project_august_pair-programming/blob/main/projeto_banco.daniel.py)
+🔗 "projeto no GitHub" (https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header)
 
 ---
 
