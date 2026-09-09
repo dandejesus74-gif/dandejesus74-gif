@@ -1,11 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header"/><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Daniel!;16+anos+%7C+Brasil;Estudante+de+Vocação;Futuro+Desenvolvedor+Full+Stack+🚀;Construindo+minha+base+todos+os+dias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Daniel!;16+anos+%7C+Brasil;Estudante+da+Vocação;Futuro+Profissional+de+Cibersegurança+🔐;Construindo+minha+base+todos+os+dias" />
 </p>---
 
 <p align="center">
-  🚀 Atualmente em formação pela <b>Vocação</b>, iniciando minha jornada no desenvolvimento.<br>
+  🔐 Atualmente em formação pela <b>Vocação</b>, iniciando minha jornada na tecnologia.<br>
   💡 Focado em aprender, evoluir e construir projetos reais.<br>
-  📈 Disposto a evoluir cada vez mais na área de programação.
+  🛡️ Tenho como objetivo seguir carreira na área de <b>Cibersegurança</b>.<br>
+  📈 Buscando desenvolver cada vez mais meus conhecimentos em tecnologia.
 </p>---
 
 <div align="center">
@@ -21,24 +22,33 @@
 
 🎨 Front-end & Design
 
-"Front-end" (https://img.shields.io/badge/Front--end-0d1117?style=for-the-badge&logo=code&logoColor=58A6FF)
-"JavaScript" (https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/Front--end-0d1117?style=for-the-badge&logo=code&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>🔧 Back-end
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>🔐 Cibersegurança
+
+Buscando construir minha base em programação, lógica, sistemas e conceitos de segurança para futuramente atuar profissionalmente na área de Cibersegurança.
 
 ---
 
-🔧 Back-end (em evolução)
+📂 Projeto em destaque
 
-"Python" (https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+🏦 Projeto Banco
+
+Em breve adicionarei aqui meus projetos desenvolvido durante minha formação.
+
+"🔗 Ver projeto no GitHub" (https://github.com/dandejesus74-gif/two_project_august_pair-programming/blob/main/projeto_banco.daniel.py)
 
 ---
 
 🎯 Objetivo
 
-- 🚀 Me tornar desenvolvedor Full Stack
+- 🔐 Me tornar profissional de Cibersegurança
 - 💼 Entrar no mercado de tecnologia
-- 🧠 Evoluir todos os dias
+- 🧠 Evoluir meus conhecimentos todos os dias
 - 📂 Construir projetos reais e úteis
-- 💻 Continuar aprendendo e evoluindo na área de programação
+- 💻 Fortalecer minha base em programação e tecnologia
+- 🛡️ Aprender cada vez mais sobre segurança da informação
 
 ---
 
