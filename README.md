@@ -35,7 +35,7 @@
 
 📂 Projeto em destaque
 
-🏦 Projeto Banco
+🏦 Projetos
 
 Projeto desenvolvido durante minha formação, colocando em prática meus conhecimentos de programação e lógica.
 
