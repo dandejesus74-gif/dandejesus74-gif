@@ -39,7 +39,9 @@
 
 Projeto desenvolvido durante minha formação, colocando em prática meus conhecimentos de programação e lógica.
 
-🔗 "projeto no GitHub" (https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header)
+🔗 "projeto no GitHub" (https://github.com/dandejesus74-gif/two_project_august_pair-programming/blob/main/projeto_banco.daniel.py)
+🔗 "projeto no GitHub" (
+
 
 ---
 
