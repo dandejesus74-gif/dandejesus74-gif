@@ -119,12 +119,19 @@
 
 ---
 
-💡 Minha mentalidade
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 💡 Minha mentalidade
 
 > **"Não preciso saber tudo agora. Preciso continuar aprendendo, praticando e evoluindo."**
 
 ---
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</p>
