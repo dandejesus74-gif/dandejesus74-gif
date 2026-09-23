@@ -40,7 +40,7 @@
 Projeto desenvolvido durante minha formação, colocando em prática meus conhecimentos de programação e lógica.
 
 🔗 "projeto no GitHub" (https://github.com/dandejesus74-gif/two_project_august_pair-programming/blob/main/projeto_banco.daniel.py)
-🔗   "projeto no GitHub" (https://github.com/dandejesus74-gif/projetos_cdt/blob/main/index.html)
+   "projeto no GitHub" (https://github.com/dandejesus74-gif/projetos_cdt/blob/main/index.html)
 
 
 ---
